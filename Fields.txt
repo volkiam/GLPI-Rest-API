@@ -1,0 +1,10 @@
+name
+content
+status - Статус
+urgency - Срочность (1:Очень Низкий, 2:Низкий, 3:Средний, 4:Высокая, 5: Очень высокая,)
+impact -
+priority - Приоритет  (0:Очень Низкий, 1:Низкий, 2:Средний, 3:Высокая, 4: Очень высокая, 5: Наивысший)
+time_to_resolve
+type - Тип
+itilcategories_id
+_tasktemplates_id

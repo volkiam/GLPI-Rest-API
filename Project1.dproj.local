@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.826,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,=Q:\Delphi\Projects\GLPI Rest API\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,Q:\Delphi\Projects\GLPI Rest API\Unit1.pas=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,Q:\Delphi\Projects\GLPI Rest API\Project1.dproj=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.830,=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,Q:\Delphi\Projects\GLPI Rest API\Unit1.dfm=C:\Users\annechiporenko\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
